@@ -1,0 +1,22 @@
+{
+  "name": "prime-skills",
+  "owner": {
+    "name": "Noman Akber"
+  },
+  "metadata": {
+    "description": "Prime code-review skills for WordPress, React/Next, Angular, Laravel, Vue/Nuxt, NestJS, Python/FastAPI, and .NET/ASP.NET Core",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "prime-skills",
+      "source": "prime-skills",
+      "description": "Read-only folder audits that record verified findings as Pending tasks in a TODO file"
+    },
+    {
+      "name": "wp-core-reference",
+      "source": "wp-core-reference",
+      "description": "Look up WordPress core functions, classes and hooks in the project's Composer stubs before writing code"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "prime-skills",
+  "description": "Read-only folder audits that record verified findings as Pending tasks in a TODO file",
+  "author": {
+    "name": "Noman Akber"
+  },
+  "license": "MIT"
+}
